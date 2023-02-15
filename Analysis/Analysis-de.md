@@ -6,20 +6,20 @@
  ||LINK |[https://filmmusic.io/song/3358-amazing-plan](https://filmmusic.io/song/3358-amazing-plan) |
 | **[00:01](https://youtu.be/17On5ItcrBA?t=0m1s)**| **ATTRIBUTE**| **Photo: Tabulating Machine**|
  ||LINK |[http://www.columbia.edu/cu/computinghistory/census-tabulator.html](http://www.columbia.edu/cu/computinghistory/census-tabulator.html) |
-| **[00:01](https://youtu.be/17On5ItcrBA?t=0m1s)**| **ATTRIBUTE**| **Photo: Hermann Hollerith**|
+| **[00:01](https://youtu.be/17On5ItcrBA?t=0m1s)**| **ATTRIBUTE**| **Photo: Herman Hollerith**|
  ||LINK |[https://www.granger.com/results.asp?image=0087866](https://www.granger.com/results.asp?image=0087866) |
 | **[00:19](https://youtu.be/17On5ItcrBA?t=0m19s)**| **TOC**| **Einführung: Wie kam es zu der Zählmaschine?**|
-| **[00:28](https://youtu.be/17On5ItcrBA?t=0m28s)**| **CLAIM**| **Herrmann Hollerith wurde 1860 in den USA geboren**|
-| **[00:34](https://youtu.be/17On5ItcrBA?t=0m34s)**| **CLAIM**| **Herrmann Hollerith hat das Studium als Berwerksingenieur abgeschlossein**|
+| **[00:28](https://youtu.be/17On5ItcrBA?t=0m28s)**| **CLAIM**| **Herman Hollerith wurde 1860 in den USA geboren**|
+| **[00:34](https://youtu.be/17On5ItcrBA?t=0m34s)**| **CLAIM**| **Herman Hollerith hat das Studium als Berwerksingenieur abgeschlossein**|
 | **[00:35](https://youtu.be/17On5ItcrBA?t=0m35s)**| **WORD**| **Bergwerksingenieur**|
  ||LINK |[https://en.wikipedia.org/wiki/Mining_engineering](https://en.wikipedia.org/wiki/Mining_engineering) |
  ||EN |Mining engineer |
-| **[00:38](https://youtu.be/17On5ItcrBA?t=0m38s)**| **CLAIM**| **Herrmann Hollerith war bei der Volkszählung 1880 in USA beteiligt**|
+| **[00:38](https://youtu.be/17On5ItcrBA?t=0m38s)**| **CLAIM**| **Herman Hollerith war bei der Volkszählung 1880 in USA beteiligt**|
 | **[00:43](https://youtu.be/17On5ItcrBA?t=0m43s)**| **WORD**| **Volkszählung**|
  ||LINK |[https://de.wikipedia.org/wiki/Volksz%C3%A4hlung](https://de.wikipedia.org/wiki/Volksz%C3%A4hlung) |
  ||EN |Census |
 | **[00:54](https://youtu.be/17On5ItcrBA?t=0m54s)**| **CLAIM**| **Die manuelle Auswertung der Volkszählung in USA 1890 dauerte etwa 10 Jahre**|
-| **[01:12](https://youtu.be/17On5ItcrBA?t=1m12s)**| **CLAIM**| **Herrmann Hollerith wurde durch Lochungen von Fahrgast-Merkmalen auf Zugfahrkarten inspiriert**|
+| **[01:12](https://youtu.be/17On5ItcrBA?t=1m12s)**| **CLAIM**| **Herman Hollerith wurde durch Lochungen von Fahrgast-Merkmalen auf Zugfahrkarten inspiriert**|
 | **[01:18](https://youtu.be/17On5ItcrBA?t=1m18s)**| **WORD**| **Merkmal**|
  ||LINK |[02:36](https://youtu.be/17On5ItcrBA?t=2m36s) |
  ||LINK |[03:34](https://youtu.be/17On5ItcrBA?t=3m34s) |

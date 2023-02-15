@@ -35,20 +35,20 @@ Log
                 LINK: https://filmmusic.io/song/3358-amazing-plan
 00:01 ATTRIBUTE Photo: Tabulating Machine
                 LINK: http://www.columbia.edu/cu/computinghistory/census-tabulator.html
-00:01 ATTRIBUTE Photo: Hermann Hollerith
+00:01 ATTRIBUTE Photo: Herman Hollerith
                 LINK: https://www.granger.com/results.asp?image=0087866
 00:19 TOC       Einführung: Wie kam es zu der Zählmaschine?
-00:28 CLAIM     Herrmann Hollerith wurde 1860 in den USA geboren
-00:34 CLAIM     Herrmann Hollerith hat das Studium als Berwerksingenieur abgeschlossein
+00:28 CLAIM     Herman Hollerith wurde 1860 in den USA geboren
+00:34 CLAIM     Herman Hollerith hat das Studium als Berwerksingenieur abgeschlossein
 00:35 WORD      Bergwerksingenieur
                 LINK: https://en.wikipedia.org/wiki/Mining_engineering
                 EN: Mining engineer
-00:38 CLAIM     Herrmann Hollerith war bei der Volkszählung 1880 in USA beteiligt
+00:38 CLAIM     Herman Hollerith war bei der Volkszählung 1880 in USA beteiligt
 00:43 WORD      Volkszählung
                 LINK: https://de.wikipedia.org/wiki/Volksz%C3%A4hlung
                 EN: Census
 00:54 CLAIM     Die manuelle Auswertung der Volkszählung in USA 1890 dauerte etwa 10 Jahre
-01:12 CLAIM     Herrmann Hollerith wurde durch Lochungen von Fahrgast-Merkmalen auf Zugfahrkarten inspiriert
+01:12 CLAIM     Herman Hollerith wurde durch Lochungen von Fahrgast-Merkmalen auf Zugfahrkarten inspiriert
 01:18 WORD      Merkmal
                 LINK: 02:36
                 LINK: 03:34
