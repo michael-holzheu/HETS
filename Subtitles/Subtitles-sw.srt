@@ -1,0 +1,356 @@
+1
+00:00:19,463 --> 00:00:26,554
+Hakika umesikia kuhusu Herman Hollerith au kazi yake.
+
+2
+00:00:26,555 --> 00:00:31,710
+Hakika, bila shaka! Hollerith alizaliwa
+
+3
+00:00:31,711 --> 00:00:34,829
+Amerika mwaka wa 1860 kama mtoto wa wahamiaji wa Ujerumani,
+
+4
+00:00:34,830 --> 00:00:38,373
+alimaliza masomo yake huko kama mhandisi wa madini
+
+5
+00:00:38,374 --> 00:00:43,038
+na kisha akashughulika na takwimu katika umri mdogo.
+
+6
+00:00:43,039 --> 00:00:46,889
+Chukua sensa ya 1880, kwa mfano:
+
+7
+00:00:46,890 --> 00:00:50,809
+kazi zote za mwongozo zilizohusika katika kutathmini dodoso
+
+8
+00:00:50,810 --> 00:00:54,929
+kwa usaidizi wa orodha za kujumlisha zilimfanya afikiri.
+
+9
+00:00:54,930 --> 00:01:01,462
+Je, mashine hazikuweza kusaidia kupunguza muda wa tathmini wa karibu miaka kumi?
+
+10
+00:01:01,463 --> 00:01:05,116
+Swali kuu lilikuwa ukusanyaji wa data
+
+11
+00:01:05,117 --> 00:01:08,405
+, ambayo alikuwa akitafuta njia inayofaa
+
+12
+00:01:08,406 --> 00:01:12,418
+ambayo ingefaa kwa usindikaji wa mitambo baadaye.
+
+13
+00:01:12,419 --> 00:01:16,005
+Katika safari moja, aliona jinsi kondakta alitumia koleo kupiga
+
+14
+00:01:16,006 --> 00:01:18,275
+sehemu mbalimbali za abiria
+
+15
+00:01:18,276 --> 00:01:21,424
+kupitia matundu kwenye tikiti .
+
+16
+00:01:21,425 --> 00:01:24,767
+Kwa mfano, jinsia au rangi ya ngozi.
+
+17
+00:01:24,768 --> 00:01:29,028
+Hiyo hatimaye ilimpa wazo:
+
+18
+00:01:29,029 --> 00:01:32,818
+Unaweza pia kutumia kanuni kwa takwimu
+
+19
+00:01:32,819 --> 00:01:38,425
+na kuokoa sifa muhimu kwa msaada wa mashimo kwenye karatasi.
+
+20
+00:01:38,426 --> 00:01:41,200
+Walakini, kunyakua na koleo ilikuwa ya kuchosha sana
+
+21
+00:01:41,201 --> 00:01:47,413
+na pia sio sahihi kabisa. Kwa hiyo aliamua
+
+22
+00:01:47,414 --> 00:01:53,595
+kujenga ngumi ya shimo. Punch hii inaitwa pantograph.
+
+23
+00:01:53,596 --> 00:01:58,736
+Kadi ya punch imeingizwa kwenye pantografu
+
+24
+00:02:00,041 --> 00:02:04,023
+na kwa kusonga mbele na nyuma kwa nafasi
+
+25
+00:02:04,024 --> 00:02:07,187
+zinazowakilisha data inayotakiwa,
+
+26
+00:02:07,188 --> 00:02:11,174
+kupiga ngumi hufanywa.
+
+27
+00:02:11,175 --> 00:02:16,651
+Sasa ninatoboa mashimo machache bila mpangilio
+
+28
+00:02:17,798 --> 00:02:20,624
+na unaona nafasi kumi na mbili za shimo hapa
+
+29
+00:02:20,625 --> 00:02:26,067
+na nafasi 20 za mashimo kwa mlalo. SAWA!
+
+30
+00:02:27,239 --> 00:02:30,432
+Hollerith alichagua umbizo la kadi ya punch
+
+31
+00:02:30,433 --> 00:02:33,707
+yenye mistari kumi na mbili na safu wima 20.
+
+32
+00:02:33,708 --> 00:02:36,670
+Onyesho lifuatalo
+
+33
+00:02:36,671 --> 00:02:39,722
+linatumia jumla ya nafasi nne za matundu kwa magonjwa,
+
+34
+00:02:39,723 --> 00:02:47,353
+yaani surua, kifua kikuu, diphtheria na mafua.
+
+35
+00:02:47,354 --> 00:02:54,772
+Pia kuna nafasi mbili za shimo kwa sifa za kiume na za kike.
+
+36
+00:02:54,773 --> 00:02:58,887
+Katika zifuatazo tunatumia kadi mbili "MM" kwa
+
+37
+00:02:58,895 --> 00:03:04,715
+surua ya kiume na "DiW" kwa diphtheria ya kike.
+
+38
+00:03:07,020 --> 00:03:13,411
+Sasa ramani inaonekana! Na moja zaidi! jamani, janga la surua!
+
+39
+00:03:13,412 --> 00:03:16,936
+Hapa unaweza kuona counters kwa
+
+40
+00:03:16,937 --> 00:03:22,648
+surua ya kiume, kifua kikuu, diphtheria na mafua.
+
+41
+00:03:22,653 --> 00:03:27,563
+Na sawa kwa wanawake:
+
+42
+00:03:27,564 --> 00:03:33,837
+surua ya kike, kifua kikuu, diphtheria na mafua.
+
+43
+00:03:35,338 --> 00:03:39,432
+Msingi wa msomaji una mawasiliano ya sifa zote zinazopatikana
+
+44
+00:03:39,433 --> 00:03:46,424
+kwa mfano surua, diphtheria, dume na jike.
+
+45
+00:03:46,425 --> 00:03:50,775
+Mawasiliano yanaunganishwa kwa umeme kwenye vihesabu vinavyofaa na
+
+46
+00:03:50,776 --> 00:03:56,114
+inaweza kuunganishwa kimantiki kwa usaidizi wa relays.
+
+47
+00:03:56,115 --> 00:03:59,857
+Msomaji ana pini zilizojaa spring, ambazo
+
+48
+00:03:59,858 --> 00:04:03,384
+pia zimeunganishwa na counters.
+
+49
+00:04:03,385 --> 00:04:06,401
+Ikiwa unaingiza kadi ya punch na kisha
+
+50
+00:04:06,402 --> 00:04:12,497
+huzuni lever ya kuhisi, ambapo kuna mashimo,
+
+51
+00:04:12,498 --> 00:04:19,298
+mzunguko unafungwa na counter huongezeka kwa moja.
+
+52
+00:04:19,299 --> 00:04:24,372
+Popote ambapo hakuna mashimo, hakuna mtiririko wa sasa
+
+53
+00:04:24,373 --> 00:04:29,896
+na kwa hiyo kaunta hazijawashwa.
+
+54
+00:04:30,185 --> 00:04:34,311
+Ndiyo basi bado tunapaswa kuchakata data za mtu mwingine
+
+55
+00:04:34,312 --> 00:04:37,928
+ambaye ni diphtheria ya kike. Na ninapowasha
+
+56
+00:04:37,929 --> 00:04:41,826
+kituo cha kusoma, unaona
+
+57
+00:04:41,827 --> 00:04:47,846
+kwamba kaunta saba inaruka kwa jumlisha moja.
+
+58
+00:04:47,847 --> 00:04:51,558
+Hollerith aligundua haraka kuwa
+
+59
+00:04:51,559 --> 00:04:56,330
+kupanga kadi ni hatua muhimu.
+
+60
+00:04:56,331 --> 00:05:03,284
+Sambamba na hisia ya kadi na harakati za vihesabio,
+
+61
+00:05:03,285 --> 00:05:12,998
+piga moja hufungua kwenye kisanduku cha kuchagua kwa ajili ya kuhifadhi kadi ya surua ya kiume.
+
+62
+00:05:12,999 --> 00:05:20,134
+Na tunaweza kuonyesha kitu kimoja na diphtheria ya kike,
+
+63
+00:05:20,135 --> 00:05:22,835
+kwa hivyo somo la saba linafungua.
+
+64
+00:05:22,836 --> 00:05:26,465
+Sasa kazi yote ikikamilika unaweza
+
+65
+00:05:26,466 --> 00:05:31,998
+kuchukua kadi zilizopigwa kutoka kwa wapangaji
+
+66
+00:05:31,999 --> 00:05:37,404
+na hapa ndipo kadi za kike zinatoka na hapa ndipo
+
+67
+00:05:37,405 --> 00:05:43,787
+kadi za kiume zinatoka. Ikiwa unataka kuchambua ambapo
+
+68
+00:05:43,967 --> 00:05:51,209
+kesi nyingi za surua hutokea, basi ninaweza tu kuchukua kadi za surua na kuzitathmini
+
+69
+00:05:51,210 --> 00:05:55,210
+kwenye mashine nyingine, ambayo hatuna hapa sasa
+
+70
+00:05:55,215 --> 00:06:00,358
+, lakini kulingana na mpango huu.
+
+71
+00:06:00,359 --> 00:06:04,410
+Hiyo inamaanisha kuwa sasa una rundo la surua dume, kwa mfano
+
+72
+00:06:04,419 --> 00:06:09,364
+na sifa zingine, kama vile umri, kwa mfano. Hasa!
+
+73
+00:06:09,365 --> 00:06:12,167
+Hii inamaanisha kuwa tayari tumeshapanga kulingana na "surua ya kiume"
+
+74
+00:06:12,168 --> 00:06:14,934
+na sasa unaweza kufanya moja zaidi na mashine ya pili.
+
+75
+00:06:14,935 --> 00:06:17,639
+fanya takwimu za kina na ... haswa!
+
+76
+00:06:18,253 --> 00:06:26,064
+Mwishowe, Herman Hollerith alifanikisha lengo lake! Katika sensa ya 1890,
+
+77
+00:06:26,065 --> 00:06:31,594
+muda wa uchambuzi ulipunguzwa kutoka kumi hadi miaka miwili tu.
+
+78
+00:06:32,398 --> 00:06:35,935
+Ngumi zake 500 zilitumika
+
+79
+00:06:35,936 --> 00:06:40,001
+kuhamisha dodoso hadi kwenye kadi milioni 62 za ngumi
+
+80
+00:06:40,002 --> 00:06:44,209
+, na kisha mifumo 90 ya kuhesabu
+
+81
+00:06:44,210 --> 00:06:46,203
+hatimaye ikatathmini.
+
+82
+00:06:46,420 --> 00:06:50,241
+Na mwisho kabisa, enzi mpya ya usindikaji wa data ya kielektroniki ilianza
+
+83
+00:06:50,242 --> 00:06:53,852
+.
+
+84
+00:06:53,853 --> 00:06:57,316
+Hatua ya kweli katika historia ya IT!
+
+85
+00:06:57,317 --> 00:07:00,318
+Tungependa kumshukuru mhadhiri wetu Heinz Graichen
+
+86
+00:07:00,319 --> 00:07:04,532
+ambaye, pamoja na wenzake,
+
+87
+00:07:04,533 --> 00:07:08,060
+wameunda upya kinanda cha takwimu katika zaidi ya saa 2000 za kazi.
+
+88
+00:07:08,061 --> 00:07:13,077
+Kwa njia, inasemekana kuwa kuna nakala mbili tu zilizobaki ulimwenguni
+
+89
+00:07:13,078 --> 00:07:18,261
+! Asante kwa umakini wako na kwaheri!
+

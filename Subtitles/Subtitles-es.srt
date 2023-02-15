@@ -1,0 +1,356 @@
+1
+00:00:19,463 --> 00:00:26,554
+Seguro que has oído hablar de Herman Hollerith o de su obra.
+
+2
+00:00:26,555 --> 00:00:31,710
+¡Claro, por supuesto! Hollerith nació
+
+3
+00:00:31,711 --> 00:00:34,829
+en América en 1860 como hijo de emigrantes alemanes,
+
+4
+00:00:34,830 --> 00:00:38,373
+completó allí sus estudios como ingeniero de minas
+
+5
+00:00:38,374 --> 00:00:43,038
+y luego se ocupó de la estadística a una edad temprana.
+
+6
+00:00:43,039 --> 00:00:46,889
+Tomemos el censo de 1880, por ejemplo:
+
+7
+00:00:46,890 --> 00:00:50,809
+todo el trabajo manual involucrado en la evaluación de los cuestionarios
+
+8
+00:00:50,810 --> 00:00:54,929
+con la ayuda de listas de conteo lo hizo pensar.
+
+9
+00:00:54,930 --> 00:01:01,462
+¿No podrían las máquinas ayudar a reducir el tiempo de evaluación de casi diez años?
+
+10
+00:01:01,463 --> 00:01:05,116
+Una cuestión central era la recopilación de datos
+
+11
+00:01:05,117 --> 00:01:08,405
+, para lo cual buscaba un medio adecuado
+
+12
+00:01:08,406 --> 00:01:12,418
+que fuera apto para su posterior procesamiento mecánico.
+
+13
+00:01:12,419 --> 00:01:16,005
+En un viaje, observó cómo el conductor usaba pinzas para perforar
+
+14
+00:01:16,006 --> 00:01:18,275
+varias características de los pasajeros
+
+15
+00:01:18,276 --> 00:01:21,424
+a través de agujeros en el boleto .
+
+16
+00:01:21,425 --> 00:01:24,767
+Por ejemplo, género o color de piel.
+
+17
+00:01:24,768 --> 00:01:29,028
+Eso finalmente le dio una idea:
+
+18
+00:01:29,029 --> 00:01:32,818
+también podría aplicar el principio a las estadísticas
+
+19
+00:01:32,819 --> 00:01:38,425
+y guardar las características necesarias con la ayuda de agujeros en el papel.
+
+20
+00:01:38,426 --> 00:01:41,200
+Sin embargo, romper con los alicates fue muy agotador
+
+21
+00:01:41,201 --> 00:01:47,413
+y también bastante impreciso. Así que decidió
+
+22
+00:01:47,414 --> 00:01:53,595
+construir una perforadora. Este punzón se llama pantógrafo.
+
+23
+00:01:53,596 --> 00:01:58,736
+La tarjeta perforada se inserta en el pantógrafo
+
+24
+00:02:00,041 --> 00:02:04,023
+y, moviéndose hacia adelante y hacia atrás hasta las posiciones
+
+25
+00:02:04,024 --> 00:02:07,187
+que representan los datos deseados,
+
+26
+00:02:07,188 --> 00:02:11,174
+se realiza el perforado.
+
+27
+00:02:11,175 --> 00:02:16,651
+Ahora perforo algunos agujeros al azar
+
+28
+00:02:17,798 --> 00:02:20,624
+y ves doce posiciones de agujeros aquí
+
+29
+00:02:20,625 --> 00:02:26,067
+y 20 posiciones de agujeros horizontalmente. ¡DE ACUERDO!
+
+30
+00:02:27,239 --> 00:02:30,432
+Hollerith optó por un formato de tarjeta perforada
+
+31
+00:02:30,433 --> 00:02:33,707
+con doce líneas y 20 columnas.
+
+32
+00:02:33,708 --> 00:02:36,670
+La siguiente demostración
+
+33
+00:02:36,671 --> 00:02:39,722
+utiliza un total de cuatro posiciones de agujeros para enfermedades,
+
+34
+00:02:39,723 --> 00:02:47,353
+a saber, sarampión, tuberculosis, difteria e influenza.
+
+35
+00:02:47,354 --> 00:02:54,772
+También hay dos posiciones de agujeros para rasgos masculinos y femeninos.
+
+36
+00:02:54,773 --> 00:02:58,887
+A continuación, usamos las dos tarjetas "MM" para
+
+37
+00:02:58,895 --> 00:03:04,715
+el sarampión masculino y "DiW" para la difteria femenina.
+
+38
+00:03:07,020 --> 00:03:13,411
+¡Ahora el mapa se siente! ¡Y uno más! ¡Oh hombre, epidemia de sarampión!
+
+39
+00:03:13,412 --> 00:03:16,936
+Aquí puedes ver contadores de
+
+40
+00:03:16,937 --> 00:03:22,648
+sarampión masculino, tuberculosis, difteria e influenza.
+
+41
+00:03:22,653 --> 00:03:27,563
+Y lo mismo para las mujeres:
+
+42
+00:03:27,564 --> 00:03:33,837
+sarampión femenino, tuberculosis, difteria e influenza.
+
+43
+00:03:35,338 --> 00:03:39,432
+La base del lector tiene contactos para todos los rasgos disponibles,
+
+44
+00:03:39,433 --> 00:03:46,424
+por ejemplo, sarampión, difteria, hombres y mujeres.
+
+45
+00:03:46,425 --> 00:03:50,775
+Los contactos están conectados eléctricamente a los contadores apropiados y
+
+46
+00:03:50,776 --> 00:03:56,114
+pueden vincularse lógicamente con la ayuda de relés.
+
+47
+00:03:56,115 --> 00:03:59,857
+El lector tiene pasadores con resorte, que
+
+48
+00:03:59,858 --> 00:04:03,384
+también están conectados a los contadores.
+
+49
+00:04:03,385 --> 00:04:06,401
+Si inserta la tarjeta perforada y luego
+
+50
+00:04:06,402 --> 00:04:12,497
+presiona la palanca de detección, donde hay agujeros,
+
+51
+00:04:12,498 --> 00:04:19,298
+el circuito se cierra y el contador aumenta en uno.
+
+52
+00:04:19,299 --> 00:04:24,372
+Donde no hay agujeros, no fluye corriente
+
+53
+00:04:24,373 --> 00:04:29,896
+y, por lo tanto, los contadores no se encienden.
+
+54
+00:04:30,185 --> 00:04:34,311
+Sí, entonces todavía tenemos que procesar los datos de la otra persona
+
+55
+00:04:34,312 --> 00:04:37,928
+que es difteria femenina. Y cuando
+
+56
+00:04:37,929 --> 00:04:41,826
+activo la estación de lectura, ves
+
+57
+00:04:41,827 --> 00:04:47,846
+que el contador siete salta de más uno.
+
+58
+00:04:47,847 --> 00:04:51,558
+Hollerith se dio cuenta rápidamente de que
+
+59
+00:04:51,559 --> 00:04:56,330
+clasificar las cartas es un paso importante.
+
+60
+00:04:56,331 --> 00:05:03,284
+Paralelamente al tacto de la tarjeta y al movimiento de las fichas,
+
+61
+00:05:03,285 --> 00:05:12,998
+se abre una solapa en la caja de clasificación para guardar la tarjeta de sarampión masculina.
+
+62
+00:05:12,999 --> 00:05:20,134
+Y podemos demostrar lo mismo con la difteria femenina,
+
+63
+00:05:20,135 --> 00:05:22,835
+por lo que se abre el tema siete.
+
+64
+00:05:22,836 --> 00:05:26,465
+Ahora, cuando todo el trabajo está hecho, puede
+
+65
+00:05:26,466 --> 00:05:31,998
+sacar las tarjetas perforadas de los clasificadores
+
+66
+00:05:31,999 --> 00:05:37,404
+y aquí es donde salen las tarjetas femeninas y aquí es donde
+
+67
+00:05:37,405 --> 00:05:43,787
+salen las tarjetas masculinas. Si desea analizar dónde
+
+68
+00:05:43,967 --> 00:05:51,209
+ocurren la mayoría de los casos de sarampión, solo puedo tomar las tarjetas de sarampión y
+
+69
+00:05:51,210 --> 00:05:55,210
+evaluarlas en otra máquina, que no tenemos aquí ahora
+
+70
+00:05:55,215 --> 00:06:00,358
+, pero de acuerdo con este esquema.
+
+71
+00:06:00,359 --> 00:06:04,410
+Eso significa que ahora tiene una pila de sarampión masculino, por ejemplo,
+
+72
+00:06:04,419 --> 00:06:09,364
+con otros atributos, como la edad, por ejemplo. ¡Exactamente!
+
+73
+00:06:09,365 --> 00:06:12,167
+Esto significa que ya hemos clasificado previamente según "sarampión masculino"
+
+74
+00:06:12,168 --> 00:06:14,934
+y ahora puede hacer uno más con una segunda máquina
+
+75
+00:06:14,935 --> 00:06:17,639
+hacer estadísticas detalladas y ... ¡exactamente!
+
+76
+00:06:18,253 --> 00:06:26,064
+¡Al final, Herman Hollerith logró su objetivo! En el censo de 1890,
+
+77
+00:06:26,065 --> 00:06:31,594
+el tiempo de análisis se redujo de diez a sólo dos años.
+
+78
+00:06:32,398 --> 00:06:35,935
+500 de sus perforaciones se utilizaron para
+
+79
+00:06:35,936 --> 00:06:40,001
+transferir los cuestionarios a 62 millones de tarjetas perforadas
+
+80
+00:06:40,002 --> 00:06:44,209
+, y luego unos 90 sistemas de conteo
+
+81
+00:06:44,210 --> 00:06:46,203
+finalmente las evaluaron.
+
+82
+00:06:46,420 --> 00:06:50,241
+Y por último, pero no menos importante, comenzó la nueva era del procesamiento de datos electromecánicos
+
+83
+00:06:50,242 --> 00:06:53,852
+.
+
+84
+00:06:53,853 --> 00:06:57,316
+¡Un verdadero hito en la historia de TI!
+
+85
+00:06:57,317 --> 00:07:00,318
+Queremos agradecer a nuestro profesor Heinz Graichen
+
+86
+00:07:00,319 --> 00:07:04,532
+quien, junto con sus compañeros,
+
+87
+00:07:04,533 --> 00:07:08,060
+ha recreado el piano de estadísticas en más de 2000 horas de trabajo.
+
+88
+00:07:08,061 --> 00:07:13,077
+Por cierto, ¡ se dice que solo quedan dos originales en todo el mundo
+
+89
+00:07:13,078 --> 00:07:18,261
+! ¡Gracias por su atención y adiós!
+

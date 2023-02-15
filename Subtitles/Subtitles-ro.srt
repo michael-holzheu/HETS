@@ -1,0 +1,356 @@
+1
+00:00:19,463 --> 00:00:26,554
+Cu siguranță ați auzit de Herman Hollerith sau de munca lui.
+
+2
+00:00:26,555 --> 00:00:31,710
+Sigur, desigur! Hollerith s-a
+
+3
+00:00:31,711 --> 00:00:34,829
+născut în America în 1860 ca fiu al emigranților germani, și-
+
+4
+00:00:34,830 --> 00:00:38,373
+a finalizat studiile acolo ca inginer minier
+
+5
+00:00:38,374 --> 00:00:43,038
+și apoi s-a ocupat de statistică la o vârstă fragedă.
+
+6
+00:00:43,039 --> 00:00:46,889
+Să luăm, de exemplu, recensământul din 1880:
+
+7
+00:00:46,890 --> 00:00:50,809
+toată munca manuală implicată în evaluarea chestionarelor
+
+8
+00:00:50,810 --> 00:00:54,929
+cu ajutorul listelor de numărare l-a pus pe gânduri.
+
+9
+00:00:54,930 --> 00:01:01,462
+Nu ar putea mașinile să contribuie la reducerea timpului de evaluare de aproape zece ani?
+
+10
+00:01:01,463 --> 00:01:05,116
+O întrebare centrală a fost colectarea datelor
+
+11
+00:01:05,117 --> 00:01:08,405
+, pentru care el căuta un mediu adecvat
+
+12
+00:01:08,406 --> 00:01:12,418
+care să fie potrivit pentru prelucrarea mecanică ulterioară.
+
+13
+00:01:12,419 --> 00:01:16,005
+Într-o călătorie, el a observat cum conducătorul folosea cleștele pentru a
+
+14
+00:01:16,006 --> 00:01:18,275
+perfora diferite caracteristici ale pasagerilor
+
+15
+00:01:18,276 --> 00:01:21,424
+prin găurile din bilet .
+
+16
+00:01:21,425 --> 00:01:24,767
+De exemplu, sexul sau culoarea pielii.
+
+17
+00:01:24,768 --> 00:01:29,028
+Asta i-a dat în sfârșit o idee:
+
+18
+00:01:29,029 --> 00:01:32,818
+ai putea aplica și principiul statisticilor
+
+19
+00:01:32,819 --> 00:01:38,425
+și ai salva caracteristicile necesare cu ajutorul găurilor din hârtie.
+
+20
+00:01:38,426 --> 00:01:41,200
+Totuși, ruperea cu cleștele a fost foarte obositoare
+
+21
+00:01:41,201 --> 00:01:47,413
+și, de asemenea, destul de imprecisă. Așa că a decis
+
+22
+00:01:47,414 --> 00:01:53,595
+să construiască un perforator. Acest pumn se numește pantograf.
+
+23
+00:01:53,596 --> 00:01:58,736
+Cardul perforat este introdus în pantograf
+
+24
+00:02:00,041 --> 00:02:04,023
+și prin deplasarea înainte și înapoi în pozițiile
+
+25
+00:02:04,024 --> 00:02:07,187
+care reprezintă datele dorite,
+
+26
+00:02:07,188 --> 00:02:11,174
+se efectuează apoi perforarea.
+
+27
+00:02:11,175 --> 00:02:16,651
+Acum perforez la întâmplare câteva găuri
+
+28
+00:02:17,798 --> 00:02:20,624
+și vedeți douăsprezece poziții de găuri aici
+
+29
+00:02:20,625 --> 00:02:26,067
+și 20 de poziții de găuri pe orizontală. BINE!
+
+30
+00:02:27,239 --> 00:02:30,432
+Hollerith a optat pentru un format de card perforat
+
+31
+00:02:30,433 --> 00:02:33,707
+cu douăsprezece linii și 20 de coloane.
+
+32
+00:02:33,708 --> 00:02:36,670
+Următoarea demonstrație
+
+33
+00:02:36,671 --> 00:02:39,722
+folosește un total de patru poziții de găuri pentru boli,
+
+34
+00:02:39,723 --> 00:02:47,353
+și anume rujeolă, tuberculoză, difterie și gripă.
+
+35
+00:02:47,354 --> 00:02:54,772
+Există, de asemenea, două poziții de găuri pentru trăsăturile masculine și feminine.
+
+36
+00:02:54,773 --> 00:02:58,887
+În cele ce urmează folosim cele două carduri „MM” pentru
+
+37
+00:02:58,895 --> 00:03:04,715
+rujeola masculină și „DiW” pentru difteria feminină.
+
+38
+00:03:07,020 --> 00:03:13,411
+Acum se simte harta! Și încă unul! O, omule, epidemie de rujeolă!
+
+39
+00:03:13,412 --> 00:03:16,936
+Aici puteți vedea contoare pentru
+
+40
+00:03:16,937 --> 00:03:22,648
+bărbați pentru rujeoză, tuberculoză, difterie și gripă.
+
+41
+00:03:22,653 --> 00:03:27,563
+Și la fel pentru femei:
+
+42
+00:03:27,564 --> 00:03:33,837
+rujeolă feminină, tuberculoză, difterie și gripă.
+
+43
+00:03:35,338 --> 00:03:39,432
+Baza cititorului are contacte pentru toate trăsăturile disponibile,
+
+44
+00:03:39,433 --> 00:03:46,424
+de exemplu rujeola, difterie, bărbați și femei.
+
+45
+00:03:46,425 --> 00:03:50,775
+Contactele sunt conectate electric la contoarele corespunzătoare și
+
+46
+00:03:50,776 --> 00:03:56,114
+pot fi legate logic cu ajutorul releelor.
+
+47
+00:03:56,115 --> 00:03:59,857
+Cititorul are știfturi cu arc, care
+
+48
+00:03:59,858 --> 00:04:03,384
+sunt, de asemenea, conectați la contoare.
+
+49
+00:04:03,385 --> 00:04:06,401
+Dacă introduceți cardul perforat și apoi
+
+50
+00:04:06,402 --> 00:04:12,497
+apăsați maneta de detectare, acolo unde sunt găuri,
+
+51
+00:04:12,498 --> 00:04:19,298
+circuitul este închis și contorul crește cu unu.
+
+52
+00:04:19,299 --> 00:04:24,372
+Oriunde nu există găuri, nu curge curent
+
+53
+00:04:24,373 --> 00:04:29,896
+și, prin urmare, contoarele nu sunt pornite.
+
+54
+00:04:30,185 --> 00:04:34,311
+Da, atunci mai trebuie să procesăm datele celeilalte persoane
+
+55
+00:04:34,312 --> 00:04:37,928
+care este difteria feminină. Și când
+
+56
+00:04:37,929 --> 00:04:41,826
+activez stația de citire, vezi
+
+57
+00:04:41,827 --> 00:04:47,846
+că contorul șapte sare cu plus unu.
+
+58
+00:04:47,847 --> 00:04:51,558
+Hollerith și-a dat seama rapid că
+
+59
+00:04:51,559 --> 00:04:56,330
+sortarea cărților este un pas important.
+
+60
+00:04:56,331 --> 00:05:03,284
+Paralel cu senzația cărții și mișcarea contoarelor,
+
+61
+00:05:03,285 --> 00:05:12,998
+se deschide clapeta unu în cutia de sortare pentru depozitarea cartelei de rujeolă masculină.
+
+62
+00:05:12,999 --> 00:05:20,134
+Și putem demonstra același lucru cu difteria feminină,
+
+63
+00:05:20,135 --> 00:05:22,835
+așa că subiectul șapte se deschide.
+
+64
+00:05:22,836 --> 00:05:26,465
+Acum, când toată munca este gata, puteți
+
+65
+00:05:26,466 --> 00:05:31,998
+scoate cărțile perforate din sortare
+
+66
+00:05:31,999 --> 00:05:37,404
+și aici ies cărțile feminine și aici
+
+67
+00:05:37,405 --> 00:05:43,787
+ies cărțile masculine. Dacă doriți să analizați unde
+
+68
+00:05:43,967 --> 00:05:51,209
+apar cele mai multe cazuri de rujeolă, atunci nu pot decât să iau cardurile de rujeolă și să le evaluez
+
+69
+00:05:51,210 --> 00:05:55,210
+pe un alt aparat, pe care nu îl avem acum aici
+
+70
+00:05:55,215 --> 00:06:00,358
+, dar după această schemă.
+
+71
+00:06:00,359 --> 00:06:04,410
+Asta înseamnă că acum aveți o grămadă de rujeolă masculină, de exemplu,
+
+72
+00:06:04,419 --> 00:06:09,364
+cu alte atribute, cum ar fi vârsta, de exemplu. Exact!
+
+73
+00:06:09,365 --> 00:06:12,167
+Aceasta înseamnă că deja am sortat în prealabil în funcție de „rujeolă masculină”
+
+74
+00:06:12,168 --> 00:06:14,934
+și acum poți face încă una cu o a doua mașină
+
+75
+00:06:14,935 --> 00:06:17,639
+faceți statistici detaliate și... exact!
+
+76
+00:06:18,253 --> 00:06:26,064
+În cele din urmă, Herman Hollerith și-a atins scopul! La recensământul din 1890,
+
+77
+00:06:26,065 --> 00:06:31,594
+timpul de analiză a fost redus de la zece la doar doi ani.
+
+78
+00:06:32,398 --> 00:06:35,935
+500 dintre loviturile sale au fost folosite pentru
+
+79
+00:06:35,936 --> 00:06:40,001
+a transfera chestionarele pe 62 de milioane de carduri perforate
+
+80
+00:06:40,002 --> 00:06:44,209
+, iar apoi aproximativ 90 de sisteme de numărare
+
+81
+00:06:44,210 --> 00:06:46,203
+le-au evaluat în cele din urmă.
+
+82
+00:06:46,420 --> 00:06:50,241
+Și nu în ultimul rând, a început noua eră a procesării electromecanice a datelor
+
+83
+00:06:50,242 --> 00:06:53,852
+.
+
+84
+00:06:53,853 --> 00:06:57,316
+O adevărată piatră de hotar în istoria IT!
+
+85
+00:06:57,317 --> 00:07:00,318
+Dorim să mulțumim lectorului nostru Heinz Graichen
+
+86
+00:07:00,319 --> 00:07:04,532
+care, împreună cu însoțitorii săi,
+
+87
+00:07:04,533 --> 00:07:08,060
+a recreat pianul statistic în peste 2000 de ore de muncă.
+
+88
+00:07:08,061 --> 00:07:13,077
+Apropo, se spune că au mai rămas doar două originale în întreaga lume
+
+89
+00:07:13,078 --> 00:07:18,261
+! Vă mulțumim pentru atenție și la revedere!
+

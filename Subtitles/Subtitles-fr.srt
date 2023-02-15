@@ -1,0 +1,356 @@
+1
+00:00:19,463 --> 00:00:26,554
+Vous avez sûrement entendu parler d'Herman Hollerith ou de son travail.
+
+2
+00:00:26,555 --> 00:00:31,710
+Oui bien sûr! Hollerith est
+
+3
+00:00:31,711 --> 00:00:34,829
+né en Amérique en 1860 en tant que fils d'émigrants allemands, y
+
+4
+00:00:34,830 --> 00:00:38,373
+a terminé ses études d'ingénieur minier
+
+5
+00:00:38,374 --> 00:00:43,038
+, puis s'est occupé très tôt des statistiques.
+
+6
+00:00:43,039 --> 00:00:46,889
+Prenons l'exemple du recensement de 1880 :
+
+7
+00:00:46,890 --> 00:00:50,809
+tout le travail manuel d'évaluation des questionnaires
+
+8
+00:00:50,810 --> 00:00:54,929
+à l'aide de listes de pointage le faisait réfléchir.
+
+9
+00:00:54,930 --> 00:01:01,462
+Les machines ne pourraient-elles pas aider à réduire le temps d'évaluation de près de dix ans ?
+
+10
+00:01:01,463 --> 00:01:05,116
+Une question centrale était la collecte de données
+
+11
+00:01:05,117 --> 00:01:08,405
+, pour laquelle il cherchait un support approprié
+
+12
+00:01:08,406 --> 00:01:12,418
+qui se prêterait à un traitement mécanique ultérieur.
+
+13
+00:01:12,419 --> 00:01:16,005
+Lors d'un voyage, il a observé comment le conducteur utilisait des pinces pour
+
+14
+00:01:16,006 --> 00:01:18,275
+percer diverses caractéristiques des passagers
+
+15
+00:01:18,276 --> 00:01:21,424
+à travers des trous dans le billet .
+
+16
+00:01:21,425 --> 00:01:24,767
+Par exemple, le sexe ou la couleur de peau.
+
+17
+00:01:24,768 --> 00:01:29,028
+Cela lui a finalement donné une idée :
+
+18
+00:01:29,029 --> 00:01:32,818
+vous pouvez également appliquer le principe aux statistiques
+
+19
+00:01:32,819 --> 00:01:38,425
+et enregistrer les caractéristiques nécessaires à l'aide de trous dans le papier.
+
+20
+00:01:38,426 --> 00:01:41,200
+Cependant, claquer avec la pince était très épuisant
+
+21
+00:01:41,201 --> 00:01:47,413
+et aussi assez imprécis. Il a donc décidé
+
+22
+00:01:47,414 --> 00:01:53,595
+de construire une perforatrice. Ce poinçon s'appelle un pantographe.
+
+23
+00:01:53,596 --> 00:01:58,736
+La carte perforée est insérée dans le pantographe
+
+24
+00:02:00,041 --> 00:02:04,023
+et en effectuant des allers-retours vers les positions
+
+25
+00:02:04,024 --> 00:02:07,187
+qui représentent les données souhaitées,
+
+26
+00:02:07,188 --> 00:02:11,174
+le poinçonnage est alors effectué.
+
+27
+00:02:11,175 --> 00:02:16,651
+Je perce maintenant quelques trous au hasard
+
+28
+00:02:17,798 --> 00:02:20,624
+et vous voyez ici douze positions de trous
+
+29
+00:02:20,625 --> 00:02:26,067
+et 20 positions de trous horizontalement. D'ACCORD!
+
+30
+00:02:27,239 --> 00:02:30,432
+Hollerith a opté pour un format de carte perforée
+
+31
+00:02:30,433 --> 00:02:33,707
+avec douze lignes et 20 colonnes.
+
+32
+00:02:33,708 --> 00:02:36,670
+La démonstration suivante
+
+33
+00:02:36,671 --> 00:02:39,722
+utilise un total de quatre positions de trous pour les maladies,
+
+34
+00:02:39,723 --> 00:02:47,353
+à savoir la rougeole, la tuberculose, la diphtérie et la grippe.
+
+35
+00:02:47,354 --> 00:02:54,772
+Il existe également deux positions de trou pour les traits masculins et féminins.
+
+36
+00:02:54,773 --> 00:02:58,887
+Dans ce qui suit, nous utilisons les deux cartes "MM" pour
+
+37
+00:02:58,895 --> 00:03:04,715
+la rougeole masculine et "DiW" pour la diphtérie féminine.
+
+38
+00:03:07,020 --> 00:03:13,411
+Maintenant la carte se fait sentir ! Et un de plus ! Oh mec, épidémie de rougeole !
+
+39
+00:03:13,412 --> 00:03:16,936
+Ici vous pouvez voir des compteurs pour
+
+40
+00:03:16,937 --> 00:03:22,648
+la rougeole masculine, la tuberculose, la diphtérie et la grippe.
+
+41
+00:03:22,653 --> 00:03:27,563
+Et pareil pour les femmes :
+
+42
+00:03:27,564 --> 00:03:33,837
+rougeole féminine, tuberculose, diphtérie et grippe.
+
+43
+00:03:35,338 --> 00:03:39,432
+La base du lecteur a des contacts pour tous les traits disponibles,
+
+44
+00:03:39,433 --> 00:03:46,424
+par exemple la rougeole, la diphtérie, les hommes et les femmes.
+
+45
+00:03:46,425 --> 00:03:50,775
+Les contacts sont reliés électriquement aux compteurs appropriés et
+
+46
+00:03:50,776 --> 00:03:56,114
+peuvent être reliés logiquement à l'aide de relais.
+
+47
+00:03:56,115 --> 00:03:59,857
+Le lecteur a des broches à ressort, qui
+
+48
+00:03:59,858 --> 00:04:03,384
+sont également connectées aux compteurs.
+
+49
+00:04:03,385 --> 00:04:06,401
+Si vous insérez la carte perforée puis
+
+50
+00:04:06,402 --> 00:04:12,497
+appuyez sur le levier de détection, là où il y a des trous,
+
+51
+00:04:12,498 --> 00:04:19,298
+le circuit est fermé et le compteur augmente de un.
+
+52
+00:04:19,299 --> 00:04:24,372
+Partout où il n'y a pas de trous, aucun courant ne circule
+
+53
+00:04:24,373 --> 00:04:29,896
+et donc les compteurs ne sont pas allumés.
+
+54
+00:04:30,185 --> 00:04:34,311
+Oui, alors nous devons encore traiter les données de l'autre personne
+
+55
+00:04:34,312 --> 00:04:37,928
+qui est la diphtérie féminine. Et quand
+
+56
+00:04:37,929 --> 00:04:41,826
+j'active la station de lecture, vous voyez
+
+57
+00:04:41,827 --> 00:04:47,846
+que le compteur sept saute de plus un.
+
+58
+00:04:47,847 --> 00:04:51,558
+Hollerith s'est vite rendu compte que
+
+59
+00:04:51,559 --> 00:04:56,330
+le tri des cartes était une étape importante.
+
+60
+00:04:56,331 --> 00:05:03,284
+Parallèlement au palpage de la carte et au mouvement des jetons,
+
+61
+00:05:03,285 --> 00:05:12,998
+un volet s'ouvre dans la boîte de tri pour ranger la carte rougeole masculine.
+
+62
+00:05:12,999 --> 00:05:20,134
+Et nous pouvons démontrer la même chose avec la diphtérie féminine,
+
+63
+00:05:20,135 --> 00:05:22,835
+donc le sujet sept s'ouvre.
+
+64
+00:05:22,836 --> 00:05:26,465
+Maintenant, lorsque tout le travail est terminé, vous pouvez
+
+65
+00:05:26,466 --> 00:05:31,998
+retirer les cartes perforées des trieurs
+
+66
+00:05:31,999 --> 00:05:37,404
+et c'est là que les cartes femelles sortent et c'est là que les
+
+67
+00:05:37,405 --> 00:05:43,787
+cartes mâles sortent. Si vous voulez analyser où
+
+68
+00:05:43,967 --> 00:05:51,209
+se produisent la plupart des cas de rougeole, je ne peux que prendre les cartes de rougeole et les évaluer
+
+69
+00:05:51,210 --> 00:05:55,210
+sur une autre machine, que nous n'avons pas ici maintenant
+
+70
+00:05:55,215 --> 00:06:00,358
+, mais selon ce schéma.
+
+71
+00:06:00,359 --> 00:06:04,410
+Cela signifie que vous avez maintenant une pile de rougeoles masculines, par exemple
+
+72
+00:06:04,419 --> 00:06:09,364
+avec d'autres attributs, comme l'âge, par exemple. Exactement!
+
+73
+00:06:09,365 --> 00:06:12,167
+Cela signifie que nous avons déjà pré-trié selon la "rougeole masculine"
+
+74
+00:06:12,168 --> 00:06:14,934
+et maintenant vous pouvez en faire une de plus avec une deuxième machine
+
+75
+00:06:14,935 --> 00:06:17,639
+faire des statistiques détaillées et ... exactement !
+
+76
+00:06:18,253 --> 00:06:26,064
+Au final, Herman Hollerith a atteint son objectif ! Lors du recensement de 1890,
+
+77
+00:06:26,065 --> 00:06:31,594
+le temps d'analyse est passé de dix à seulement deux ans.
+
+78
+00:06:32,398 --> 00:06:35,935
+500 de ses poinçons ont été utilisés pour
+
+79
+00:06:35,936 --> 00:06:40,001
+transférer les questionnaires sur 62 millions de cartes perforées
+
+80
+00:06:40,002 --> 00:06:44,209
+, puis environ 90 systèmes de comptage
+
+81
+00:06:44,210 --> 00:06:46,203
+les ont finalement évalués.
+
+82
+00:06:46,420 --> 00:06:50,241
+Enfin, la nouvelle ère du traitement électromécanique des données a commencé
+
+83
+00:06:50,242 --> 00:06:53,852
+.
+
+84
+00:06:53,853 --> 00:06:57,316
+Un véritable jalon dans l'histoire de l'informatique !
+
+85
+00:06:57,317 --> 00:07:00,318
+Nous tenons à remercier notre conférencier Heinz Graichen
+
+86
+00:07:00,319 --> 00:07:04,532
+qui, avec ses compagnons,
+
+87
+00:07:04,533 --> 00:07:08,060
+a recréé le piano statistique en plus de 2000 heures de travail.
+
+88
+00:07:08,061 --> 00:07:13,077
+D'ailleurs, il ne resterait plus que deux originaux dans le monde
+
+89
+00:07:13,078 --> 00:07:18,261
+! Merci de votre attention et au revoir !
+
