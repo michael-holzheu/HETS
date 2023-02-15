@@ -1,0 +1,37 @@
+Keywords
+--------
+ATTRIBUTE: Attribute to external work
+BUG:       Bug or Problem
+CLAIM:     Claim/Statement
+COMPARE:   Comparison to other device
+DIALECT:   Spoken dialect
+DISCOVER:  We found out something new! 
+FACT:      Fact. Something that is objective right
+HOWTO:     Tutorial, Explanation how to achieve something
+IDEA:      Proposal for improving things
+LINK:      Link/URL to external information
+MEASURE:   Measurement, e.g. time.
+PART:      Part of the package
+QUESTION:  Question
+SAYING:    Saying
+SPECIAL:   Special feature
+SUMMARY:   Summary
+TRYOUT:    Try something out (experiment)
+WORD:      Special word
+THESIS:    Thesis
+TOC:       Table of Contents
+
+Speaker/Actors
+--------------
+HEINZ:     Presenter
+MICHA:     Speaker
+
+Log
+---
+00:19 TOC	Einführung: Wie kam es zu der Zählmaschine?
+01:38 TOC	Demo: Datenerfassung mit dem Pantograph Locher
+02:25 TOC	Erklärung: Lochkartenformat
+03:06 TOC	Demo: Karten mit Lesegerät auswerten und Weiterschaltung der Zähluhren
+03:34 TOC	Erklärung: Funktionsweise Lesegerät und Zählmaschine
+04:30 TOC	Demo: Sortierkasten
+06:18 TOC	Erklärung: Auswirkungen auf die  Auswertung der Volkszählung von 1890
