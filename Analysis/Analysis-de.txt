@@ -16,6 +16,7 @@ QUESTION:  Question
 SAYING:    Saying
 SPECIAL:   Special feature
 SUMMARY:   Summary
+SYNONYM:    Synonym (for word)
 TRYOUT:    Try something out (experiment)
 WORD:      Special word
 THESIS:    Thesis
@@ -28,10 +29,97 @@ MICHA:     Speaker
 
 Log
 ---
-00:19 TOC	Einführung: Wie kam es zu der Zählmaschine?
-01:38 TOC	Demo: Datenerfassung mit dem Pantograph Locher
-02:25 TOC	Erklärung: Lochkartenformat
-03:06 TOC	Demo: Karten mit Lesegerät auswerten und Weiterschaltung der Zähluhren
-03:34 TOC	Erklärung: Funktionsweise Lesegerät und Zählmaschine
-04:30 TOC	Demo: Sortierkasten
-06:18 TOC	Erklärung: Auswirkungen auf die  Auswertung der Volkszählung von 1890
+00:01 ATTRIBUTE Music: Amazing Plan (Kevin MacLeod)
+                LINK: 02:25
+                LINK: 06:17
+                LINK: https://filmmusic.io/song/3358-amazing-plan
+00:01 ATTRIBUTE Photo: Tabulating Machine
+                LINK: http://www.columbia.edu/cu/computinghistory/census-tabulator.html
+00:01 ATTRIBUTE Photo: Hermann Hollerith
+                LINK: https://www.granger.com/results.asp?image=0087866
+00:19 TOC       Einführung: Wie kam es zu der Zählmaschine?
+00:28 CLAIM     Herrmann Hollerith wurde 1860 in den USA geboren
+00:34 CLAIM     Herrmann Hollerith hat das Studium als Berwerksingenieur abgeschlossein
+00:35 WORD      Bergwerksingenieur
+                LINK: https://en.wikipedia.org/wiki/Mining_engineering
+                EN: Mining engineer
+00:38 CLAIM     Herrmann Hollerith war bei der Volkszählung 1880 in USA beteiligt
+00:43 WORD      Volkszählung
+                LINK: https://de.wikipedia.org/wiki/Volksz%C3%A4hlung
+                EN: Census
+00:54 CLAIM     Die manuelle Auswertung der Volkszählung in USA 1890 dauerte etwa 10 Jahre
+01:12 CLAIM     Herrmann Hollerith wurde durch Lochungen von Fahrgast-Merkmalen auf Zugfahrkarten inspiriert
+01:18 WORD      Merkmal
+                LINK: 02:36
+                LINK: 03:34
+                LINK: https://de.wikipedia.org/wiki/Merkmal
+01:38 TOC       Demo: Datenerfassung mit dem Pantograph Locher
+01:47 WORD      Locher
+                LINK: https://de.wikipedia.org/wiki/Locher
+                EN: Punch
+01:48 WORD      Pantograph
+                SYNONYM: Locher
+                LINK: https://de.wikipedia.org/wiki/Pantograf
+                EN: Panthograph
+01:54 WORD      Lochkarte
+                LINK: 04:03
+                LINK: 05:25
+                LINK: https://de.wikipedia.org/wiki/Lochkarte
+                EN: Punch card
+02:07 WORD      Lochung
+                EN: Perforation
+02:19 WORD      Lochposition
+                EN: Hole position
+02:28 WORD      Lochkartenformat
+                EN: Punch card format
+02:25 TOC       Erklärung: Lochkartenformat
+03:06 TOC       Demo: Karten mit Lesegerät auswerten und Weiterschaltung der Zähluhren
+03:06 WORD      Abfühlen
+                LINK: 04:05
+                EN: Sense
+03:13 WORD      Zähluhr
+                LINK: 3:55
+                LINK: https://de.wikipedia.org/wiki/Z%C3%A4hlwerk
+                EN: Counter
+03:34 TOC       Erklärung: Funktionsweise Lesegerät und Zählmaschine
+03:34 WORD      Grundplatte
+                EN: Base plate
+03:39 WORD      Kontakt
+                LINK: https://de.wikipedia.org/wiki/Elektrischer_Kontakt
+                EN: Contact
+03:51 WORD      Relais
+                LINK: https://de.wikipedia.org/wiki/Relais
+                EN: Relay
+03:55 WORD      Lesegerät
+                EN: Reader device
+04:12 WORD      Stromkreis
+                LINK: https://de.wikipedia.org/wiki/Stromkreis
+                EN: Circuit
+04:22 WORD      Strom
+                LINK: https://de.wikipedia.org/wiki/Elektrischer_Strom
+                EN: Current
+04:30 TOC       Demo: Sortierkasten
+04:38 WORD      Lesestation
+                SYNONYM: Lesegerät
+                EN: Reading station
+05:05 WORD      Sortierkasten
+                EN: Sorting box
+05:25 WORD      Sortierfach
+                EN: Compartment
+06:03 WORD      Attribut
+                LINK: https://de.wikipedia.org/wiki/Attribut_(Programmierung)
+                SYNONYM: Merkmal
+                EN: Attribute
+06:18 TOC       Erklärung: Auswirkungen auf die Auswertung der Volkszählung von 1890
+06:21 CLAIM     Bei der Volkszählung 1890 konnte die Auswertungszeit von 10 (1880) auf zwei Zahre reduziert werden
+06:31 CLAIM     Bei der Volkszählung 1890 waren 500 Locher im Einsatz
+06:35 CLAIM     Bei der Volkszählung 1890 wurden 62 Millionen Lochkarten verwendet
+06:39 CLAIM     Bei der Volkszählung 1890 waren etwa 90 Zählsysteme im Einsatz
+06:42 WORD      Zählsystem
+                SYNONYM: Hollerith Eletrical Tabulating System
+                EN: Counting system
+06:46 CLAIM     Das HETS begründete die elektromechanische Datenverarbeitung
+06:50 WORD      Elektromechanische Datenverarbeitung
+                EN: Electromechanical data processing
+07:00 CLAIM     Für den HETS Nachbau wurden über 2000 Arbeitsstunden benötigt
+07:20 TOC       Abspann mit Quellenangaben
