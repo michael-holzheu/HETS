@@ -6,6 +6,6 @@ Informationen zum Erklärfilm über die Hollerithmaschine (HETS)
 
 ## Projekt Inhalt
 
-- [Analyse](https://github.com/michael-holzheu/Arbeitspapier-321/tree/main/Analysis/Analysis-de.md)
-- [Quellenangabe](https://github.com/michael-holzheu/Arbeitspapier-321/tree/main/Attribution/Attribution.txt)
-- [Untertitel](https://github.com/michael-holzheu/Arbeitspapier-321/tree/main/Subtitles)
+- [Analyse](https://github.com/michael-holzheu/HETS/tree/main/Analysis/Analysis-de.md)
+- [Quellenangabe](https://github.com/michael-holzheu/HETS/tree/main/Attribution/Attribution.txt)
+- [Untertitel](https://github.com/michael-holzheu/HETS/tree/main/Subtitles)
