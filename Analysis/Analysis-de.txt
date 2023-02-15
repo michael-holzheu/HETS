@@ -39,7 +39,7 @@ Log
                 LINK: https://www.granger.com/results.asp?image=0087866
 00:19 TOC       Einführung: Wie kam es zu der Zählmaschine?
 00:28 CLAIM     Herman Hollerith wurde 1860 in den USA geboren
-00:34 CLAIM     Herman Hollerith hat das Studium als Berwerksingenieur abgeschlossein
+00:34 CLAIM     Herman Hollerith hat das Studium als Berwerksingenieur abgeschlossen
 00:35 WORD      Bergwerksingenieur
                 LINK: https://en.wikipedia.org/wiki/Mining_engineering
                 EN: Mining engineer
@@ -47,7 +47,7 @@ Log
 00:43 WORD      Volkszählung
                 LINK: https://de.wikipedia.org/wiki/Volksz%C3%A4hlung
                 EN: Census
-00:54 CLAIM     Die manuelle Auswertung der Volkszählung in USA 1890 dauerte etwa 10 Jahre
+00:54 CLAIM     Die manuelle Auswertung der Volkszählung in USA 1880 dauerte etwa 10 Jahre
 01:12 CLAIM     Herman Hollerith wurde durch Lochungen von Fahrgast-Merkmalen auf Zugfahrkarten inspiriert
 01:18 WORD      Merkmal
                 LINK: 02:36
@@ -111,7 +111,7 @@ Log
                 SYNONYM: Merkmal
                 EN: Attribute
 06:18 TOC       Erklärung: Auswirkungen auf die Auswertung der Volkszählung von 1890
-06:21 CLAIM     Bei der Volkszählung 1890 konnte die Auswertungszeit von 10 (1880) auf zwei Zahre reduziert werden
+06:21 CLAIM     Bei der Volkszählung 1890 konnte die Auswertungszeit von 10 (1880) auf zwei Jahre reduziert werden
 06:31 CLAIM     Bei der Volkszählung 1890 waren 500 Locher im Einsatz
 06:35 CLAIM     Bei der Volkszählung 1890 wurden 62 Millionen Lochkarten verwendet
 06:39 CLAIM     Bei der Volkszählung 1890 waren etwa 90 Zählsysteme im Einsatz
