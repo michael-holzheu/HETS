@@ -1,6 +1,6 @@
-# Hollerith Electric Tabulating System
+# Hollerith Electric Tabulating System (HETS)
 
-Informationen zum Erklärfilm über die Hollerithmaschine (HETS):
+Informationen zum Erklärfilm über die Hollerithmaschine:
 
 [![HETS](https://github.com/michael-holzheu/HETS/raw/main/Pictures/HETS-4-3.jpg)](https://youtu.be/17On5ItcrBA)
 
